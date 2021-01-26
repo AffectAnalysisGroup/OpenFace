@@ -1,0 +1,3 @@
+Input:./samples/default.wmv
+Input full path:/home/mab623/Downloads/openface_custom/samples/default.wmv
+Camera parameters:500,500,320,240
